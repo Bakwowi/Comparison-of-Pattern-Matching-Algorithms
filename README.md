@@ -1,6 +1,5 @@
 # Pattern Matching Algorithm Speed Comparison in Jupyter Notebook
 
-## 1. Introduction and problem description
 In this project, we compare the performance of three string pattern-matching algorithms: 
 1. Brute-force
 2. Knuth-Morris-Pratt (KMP)
